@@ -42,8 +42,9 @@ spotify-sql-eda/
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/your-username/spotify-sql-eda.git
-   cd spotify-sql-eda
+   git clone https://github.com/JothiRam-cm/SQL_Case_Studies.git
+   cd SQL_Case_Studies/Spotify_EDA
+
    ```
 
 2. Install dependencies
